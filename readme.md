@@ -62,8 +62,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Breakdownschets (week 1)
 
--uitwerken voor de 1e werkgroep - eind van de eerste week-
-
+<img src="/images/breakdown_blizzard_global.jpg" width="375px" alt="breakdown van blizzard">
+<img src="/images/breakdown_blizzard_global_d.jpg" width="375px" alt="breakdown detailed van blizzard">
 
 
 ## Intake (week 1)
@@ -73,12 +73,12 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je focus:** - voledig responsive
 
-**Je opdracht:** - https://www.booking.com/
+**Je opdracht:** - https://www.blizzard.com/en-us/
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="/images/home_booking.PNG" width="375px" alt="homepagina van booking">
+<img src="/images/home_blizzard.PNG" width="375px" alt="homepagina van blizzard">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="/images/details_booking.PNG" width="375px" alt="detailpagina van booking">
+<img src="/images/shop_blizzard.PNG" width="375px" alt="shoppagina van blizzard">
